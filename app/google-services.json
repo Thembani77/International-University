@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "153394042351",
+    "project_id": "login-2nd-project",
+    "storage_bucket": "login-2nd-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153394042351:android:fb0c33483f1789af04521a",
+        "android_client_info": {
+          "package_name": "com.example.extinct"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9bF6nyEbO0mypiK0Z12s5H4duVmkn31M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153394042351:android:594477f80536c10904521a",
+        "android_client_info": {
+          "package_name": "com.example.firebaseproject2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9bF6nyEbO0mypiK0Z12s5H4duVmkn31M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153394042351:android:99018b913506202204521a",
+        "android_client_info": {
+          "package_name": "com.example.internationaluniversity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9bF6nyEbO0mypiK0Z12s5H4duVmkn31M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
